@@ -51,5 +51,6 @@ The software will produce contrast improved image along with original as well as
 
 ## Note
 The code works for any size image (M,N) from intensity levels 0 to 255 (8-bit), 0 being black and 255 white. \
-The code can be further improved to include larger bit sizes -- 12 bit, 16 bit and 24 bit.
+The code can be further improved to include larger bit sizes -- 12 bit, 16 bit and 24 bit.\
+The repository also contains standard test images for user to try out the software. Have fun !
 
