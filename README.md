@@ -2,7 +2,7 @@
 ## Welcome to Histogram Equalization software documentation
 **This software does histogram equalization of images to improve contrast.**\
 \
-In low contrast images, most of the intensities are clustered around a particular intensity. To check that, we plot a histogram to see frequencies at different intensity levels. In ideal case, we get a uniform histogram, i.e every pixel intensity has same frequency. Hence, we try to make our frequency distribution uniform. To do so, we effectively spread out the most frequent intensity values, i.e. stretching out the intensity range of the image.
+Histogram equalization is a common algorithm used in image processing to improve the contrast of an image. In low-contrast images, most of the pixel intensities are clustered around a particular pixel intensity. To check that, we plot a histogram to see frequencies at different intensity levels. In the ideal case, we get a uniform histogram, i.e. every pixel intensity has the same frequency. Hence, we try to make our frequency distribution uniform. To do so, we effectively spread out the most frequent pixel intensity values, i.e. stretching out the intensity range of the image. 
 
 # Getting Started
 ## Installing and importing dependencies
